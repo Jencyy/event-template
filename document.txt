@@ -1,0 +1,17 @@
+
+colors..//
+ 
+main-color:#ffffff;
+primary-color:#FFBD00;
+content-color:#9B9EAC;
+secondary-color:#FF60CE;
+
+fonts..//
+main-font:Barlow;
+second-font:Mitr;
+
+
+
+
+path:
+file:///C:/jency/Event-template/index.html
